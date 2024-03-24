@@ -39,7 +39,10 @@ const Header = () => {
           <div className='account flexSB'>
             <i className='fa fa-search'></i>
             <i class='fas fa-bell'></i>
+
+       
             <i className='fas fa-user'></i>
+           
             <button>Subscribe Now</button> 
           </div>
         </div>
